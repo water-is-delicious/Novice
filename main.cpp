@@ -50,6 +50,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::DrawSprite(0,260, glaphHandle1, 1, 1, 0.0f, 0xFFFFFFFF);
 		Novice::DrawSprite(260, 260, glaphHandle2, 1, 1, 0.0f, 0xFFFFFFFF);
 		Novice::DrawSprite(530, 260, glaphHandle3, 1, 1, 0.0f, 0xFFFFFFFF);
+		//aassddffgghhjjkkll
 
 		///
 		/// ↑描画処理ここまで
